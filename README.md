@@ -4,9 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Kyle Adams
-Shawn Ryer
+Ben Coleman - colemanb@moravian.edu
+Kyle Adams - adamsk04@moravian.edu
+Shawn Ryer - ryers@moravian.edu
 
 ## Setup
 
