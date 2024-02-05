@@ -7,7 +7,7 @@ Participants:
 Ben Coleman - colemanb@moravian.edu
 Kyle Adams - adamsk04@moravian.edu
 Shawn Ryer - ryers@moravian.edu
-
+Anna Huang 
 ## Setup
 
 Before you begin work with this repo, run the following commands:
